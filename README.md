@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @madhupriyanaga
-- 👀 I’m interested in Problem solving and Web Development, Machine Learning & AI
+- 👀 I’m interested in Problem solving and Development (Web or App), Machine Learning & AI
 - 🌱 I’m currently an BTech undergraduate Student in IT at VBIT Hyderabad.
-- 💞️ I’m looking to collaborate on WebDevelopment, Machine Learning & AI etc.,
+- 💞️ I’m looking to collaborate on Development, Machine Learning & AI etc.,
 - 📫 To reach out to me please mail onto 
       email: madhupriyanaga333@gmail.com
 <!---
